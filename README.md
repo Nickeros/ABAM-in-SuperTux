@@ -1,3 +1,3 @@
 # New-Supertux
 Nickerson Romero
-eso es un invento el supertux cuando voy hacer algo cosa nueva para supertux eso el hise yo
+By the way when new object arrives, blocks, background, enemy in supertux well I like to edit in supertux
